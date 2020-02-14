@@ -1,2 +1,3 @@
 ^testactions\.Rproj$
 ^\.Rproj\.user$
+^\.github/workflows/pr-commands\.yaml$
